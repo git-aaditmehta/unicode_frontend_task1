@@ -1,0 +1,113 @@
+.sec2{
+    background-color: rgb(239, 239, 239);
+    height: 1702px;
+}
+.sec2text1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 68px;
+}
+.sec2text2{
+    text-align: center;
+    color: 
+    rgba(92, 101, 116, 1);
+    margin-top: -25px;
+}    
+.dishes{
+    display: flex;    
+    width: 960px;
+    align-items: center;
+    margin-left: 148px;
+    margin-top: 60px;
+    gap: 25px;
+}
+.dish1,.dish2,.dish3,.dish4{
+    flex: 1;
+    
+    height: 340px;
+}
+.dishtext1,.dishtext1a{
+    width: 220px;
+    background-color: rgb(239, 239, 239);border: 3px solid white ;height: 70%;margin-top: 97px;border-top-left-radius: 37px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 37px;
+    position: relative;
+}
+.dishtext1a{
+    background-color: white;
+}
+.dt1{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 115px;
+}
+.dt2{
+    text-align: center;
+    font-size: 12px;
+    color: rgba(92, 101, 116, 1);
+}
+.d{
+    width: 90%;position: absolute;margin-top:-305px;margin-left: 15px;
+}
+.text1-2,.text2-2,.button-menu-2,.button-booktable-2,.restaurant-image-2{
+    margin-top: 0;
+    margin-left: 50px;
+}
+.text1-2{
+    margin-top: 360px;
+}
+.text2-2{
+    margin-top: 50px;
+}
+.button-booktable-2,.button-menu-2{
+    margin-top: 35px;
+}
+.text1-2{
+    width: 450px;
+    height: 115px;
+    
+    font-size: 50px;
+    font-weight: 700;
+}
+.text2-2{
+    width: 320px;
+    height: 90px;
+    
+    line-height: 25px;
+    font-weight: 400;
+    color: rgba(92, 101, 116, 1);
+    font-size: 15px;
+}
+.button-menu-2{
+    width: 100px;
+    height: 45px;
+    
+    
+    display: inline-block;
+    
+}
+.button-booktable-2{
+    height: 45px;
+    width: 130px;
+    display: inline-block;
+    
+}
+.restaurant-image-2{
+    position: relative;
+    margin-left: 80px;
+    margin-top: 195px;
+}
+.a-2{
+    width: 620px;
+    height: 630px;
+     
+}
+.aa-2{
+    position: absolute;
+                        height: 260px;
+                        margin-top: -280px;
+                        margin-left: -160px;
+}
+
